@@ -16,6 +16,7 @@ public class Ex_gitbranch {
 	 */
 	private static void method1() {
 		System.out.println("GIT É MASSA");
+		System.out.println("Coisa de Branch");
 		System.out.println("MANOLAO");
 	}
 
